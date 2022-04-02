@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.flutter_dating_app">
+    package="com.prom.prom">
    <application
         android:label="flutter_dating_app"
         android:icon="@mipmap/ic_launcher">
